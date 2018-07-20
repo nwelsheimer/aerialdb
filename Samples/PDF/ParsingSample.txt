@@ -1,0 +1,35 @@
+2016 Work Order\nHeritage Aerial Applicators\nAuthorized By Brenda\nBWtest\n5/12/2016\n5/12/2016\nApplication Date & Time Applicators\nStart Time:\nFinish Time:\nEnvironmental\nSky Condition: Wind Speed: Wind Direction:\n
+Soil Condition: Temperature: Humidity:\nTank Information\nSize: Carrier/Area: Total Carrier: Tank Count:\nNotes\nProducts2016 Work Order\nHeritage Aerial Applicators\nAuthorized By Brenda\nBWtest\n5/12/2016\n5/12/2016\n
+Name / Active Reg # / Pest REI / PHI App. Method App Area Rate / ac. Total\nREI(h) *\nAPSA-80 207.91 ac. 0.12 fl oz 0.19 gal\nPHI(d)\n*\nREI(h)\n*\nIn-Place 2935-50169 207.91 ac. 1.50 fl oz 2.44 gal\n
+ TOTAL PRINCIPAL FUNCTIONING *\nAGENTS,Modified vegetable \nPHI(d)\noil,Aromatic Acid,Aliphatic Mineral \nOil,Amine salts of organic acids\nAffinity BroadSpec Herbicide 12\nREI(h)\n(with TotalSol Soluble 1,735.10 dry \n
+Granules) 352-661 207.91 ac. 8.00 fl oz oz.\nTribenuron-methyl,Thifensulfuron- 12\nPHI(d)\nmethyl\nREI(h) *\nCornbelt Defoamer 207.91 ac. 0.03 fl oz 0.39 pt\nPHI(d)\
+nSilicone fluid emulsion *\n50534-204- *\nREI(h)\nBravo Zn 100 207.91 ac. 1.50 pt 38.98 gal\nPHI(d)\nChlorothalonil *\nVydate C-LV Insecticide- *\nREI(h)\nNematicide 352-532 207.91 ac. 1.50 gal 311.87 gal\nPHI(d)\n
+Oxamyl *\nFields 207.91 ac.\nFarm Field Crop Zone Crop Center Lat/Long WO. Area Actual Area\nChad Main CM1 Wheat Wheat 43.51482, -84.96148 75.44\nChad Main CM2 Wheat Wheat 43.51064, -84.96507 6.07\n
+Chad Main CM3 Wheat Wheat 43.51611, -84.95414 18.15\nChad Main CM4 Wheat Wheat 43.52182, -84.95172 108.26\nSignature Date\nWorker Protection\nAPSA-80\nSignal Word RUP False\nPPE\nReEntry\nIn-Place\nWARNING False\n
+Signal Word RUP\nWear rubber or chemical-resistant gloves.\nPPE2016 Work Order\nHeritage Aerial Applicators\nAuthorized By Brenda\nBWtest\n5/12/2016\n5/12/2016\nReEntry\nAffinity BroadSpec Herbicide (with TotalSol \n
+Soluble Granules)\nCAUTION False\nSignal Word RUP\nPERSONAL PROTECTIVE EQUIPMENT (PPE) Some materials that are chemical resistant to this product are listed below. If you want more options follow the instructions for Category A on \n
+an EPA chemical resistance category selection chart. Applicators and other handlers must wear: Long-sleeved shirt and long pants. Chemical Resistant Gloves Category A (such as butyl \nPPE\n
+rubber, natural rubber, neoprene rubber or nitrile rubber) >= 14 mls. Shoes plus socks. Follow manufacturer's instructions for cleaning/maintaining PPE. If no such instructions for washables \n
+exist, use detergent and hot water. Keep and wash PPE separately from other laundry.\nPPE required for early entry to treated areas that is permitted under the Worker Protection Standard and that involves contact with anything that has been treated, such as plants, soil, or \n
+ReEntry\nwater, is: Coveralls. Chemical-resistant gloves made of any waterproof material. Shoes plus socks.\nCornbelt Defoamer\nFalse\nSignal Word RUP\n
+PPE Eye Protection:Proper eye protection should be worn in any type of industrial operation. \nReEntry\nBravo Zn\nSignal Word WARNING RUP False\nPersonal Protective 
+Equipment (PPE) Some materials that are chemical-resistant to this product are made of any waterproof material. If you want more options, follow the instructions for \n
+Category A on an EPA chemical resistance category selection chart.Mixers, Loaders, Applicators and all other handlers must wear: - long-sleeved shirt and long pants - chemical resistant \n
+gloves made of any waterproof material - shoes plus socksDiscard clothing and other absorbent materials that have been drenched or heavily contaminated with this product's concentrate. \nPPE\n
+Do not reuse them. Follow manufacturer's instructions for cleaning/ maintaining PPE. If no such instructions for washables, use detergent and hot water. Keep and wash PPE separately from \nother laundry.\n
+PPE required for early entry to treated areas that is permitted under the Worker Protection Standard and that involves contact with anything that has been treated, such as plants, soil, or \n
+water, is: - coveralls - chemical resistant gloves made of any waterproof material - shoes plus socks - protective eyewear Special Eye Irritation Provisions: This product is a severe eye irritant. \n
+Although the restricted-entry interval expires after 12 hours, for the next 6.5 days entry is permitted only when the following safety measures are provided: (1) At least one container designed \n
+specifically for flushing eyes must be available in operating condition at the WPS-required decontamination site intended for workers entering the treated area. (2) Workers must be informed, \nReEntry\n
+in a manner they can understand: - that residues in the treated area may be highly irritating to their eyes - that they should take precautions, such as refraining from rubbing their eyes to keep \n
+the residues out of their eyes - that if they do get residues in their eyes, they should immediately flush their eyes using the eyeflush container that is located at the decontamination site, or \n
+using other readily available clean water - how to operate the eyeflush container\nVydate C-LV Insecticide-Nematicide\nDANGER True\nSignal Word RUP\n
+PERSONAL PROTECTIVE EQUIPMENT (PPE) Some materials that are chemical-resistant to this product are listed below. If you want more options, follow the instructions for category B on \n
+an EPA chemical-resistance category selection chart. Mixers, loaders, and applicators and other handlers must wear: Coveralls over long-sleeved shirt and long pants. Chemical-resistant \n
+gloves, such as barrier laminate or butyl rubber. Chemical-resistant footwear plus socks. Protective eyewear. Chemical-resistant headgear for overhead exposure. Chemical-resistant apron \n
+when cleaning equipment, mixing, or loading. A respirator with an organic vapor-removing cartridge with a prefilter approved for pesticides (MSHA/NIOSH approval number prefix TC-23C), or \n
+PPE\na canister approved for pesticides (MSHA/NIOSH approval number prefix TC-14G) or a NIOSH approved respirator with an organic vapor (OV) cartridge or canister with any R, P or HE \n
+prefilter. Discard clothing or other absorbent materials that have been drenched or heavily contaminated with this product's concentrate. Do not reuse them. Follow manufacturer's instructions \n
+for cleaning/maintaining PPE. If no such instructions for washables, use detergent and hot water. Keep and wash PPE separately from other laundry.\n
+PPE required for early entry to treated areas that is permitted under the Worker Protection Standard and that involves contact with anything that has been treated, such as plants, soil, or \n
+ReEntry\nwater, is: Coveralls. Chemical-resistant gloves, made of any waterproof material. Socks and shoes.

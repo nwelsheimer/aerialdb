@@ -1,0 +1,42 @@
+BWtest
+APSA-80
+In-Place
+Affinity BroadSpec
+Cornbelt Defoamer
+Bravo Zn
+Vydate C-LV Insecticide-Nematicide
+
+BWTest2
+Affinity BroadSpec
+Awaken 16-0-2
+Priaxor
+In-Place
+APSA-80
+
+BWTest3
+Affinity
+Cornbelt
+Bravo Zn
+Vydate
+
+AB1
+Urea
+K-Mag 0.0-22-11Mg-22S
+
+AB3
+Urea
+K-Mag 0.0-22-11Mg-22S
+
+HB2
+Edition BroadSpec
+APSA-80
+In-PLace
+
+SB2
+Affinity
+Quilt
+APSA-80
+In-Place
+
+SP2
+Clover Seed

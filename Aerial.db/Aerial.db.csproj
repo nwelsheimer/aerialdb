@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DA69BB4B-E1E0-4C5C-B6D8-40FA6F7F5080}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Aerial.db</RootNamespace>
+    <AssemblyName>Aerial.db</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>Aerial.db</SccProjectName>
+    <SccLocalPath>3~b7e96a58-00e4-4529-b22d-48c7cd6c12ac</SccLocalPath>
+    <SccAuxPath>http://dev.aggtool.com/VaultService</SccAuxPath>
+    <SccProvider>SourceGear Vault Visual Studio 2005 Client:{1EA47954-8515-402d-82D9-B5C332120A8D}</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Images\Aerial.db.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AerialTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AerialTextBox.Designer.cs">
+      <DependentUpon>AerialTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AerialWind.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AerialWind.Designer.cs">
+      <DependentUpon>AerialWind.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlColorChooser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlColorChooser.Designer.cs">
+      <DependentUpon>ControlColorChooser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlColors.cs">
+      <DependentUpon>ControlColors.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ControlColorsNonGeneratedCode.cs" />
+    <Compile Include="CustomControls.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CustomizeColors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomizeColors.Designer.cs">
+      <DependentUpon>CustomizeColors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <None Include="Picture Viewer.cs">
+      <SubType>Form</SubType>
+    </None>
+    <None Include="Picture Viewer.Designer.cs">
+      <DependentUpon>Picture Viewer.cs</DependentUpon>
+    </None>
+    <Compile Include="PilotChooser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PilotChooser.Designer.cs">
+      <DependentUpon>PilotChooser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Settings.cs" />
+    <EmbeddedResource Include="AerialTextBox.resx">
+      <DependentUpon>AerialTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AerialWind.resx">
+      <DependentUpon>AerialWind.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlColorChooser.resx">
+      <DependentUpon>ControlColorChooser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomizeColors.resx">
+      <DependentUpon>CustomizeColors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Picture Viewer.resx">
+      <DependentUpon>Picture Viewer.cs</DependentUpon>
+    </None>
+    <EmbeddedResource Include="PilotChooser.resx">
+      <DependentUpon>PilotChooser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="ControlColors.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Aerial.db.dal\Aerial.db.dal.csproj">
+      <Project>{146EED85-D880-4692-ACFC-75218340DD3B}</Project>
+      <Name>Aerial.db.dal</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\Aerial.db.ico" />
+    <Content Include="Images\Aerial.db.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

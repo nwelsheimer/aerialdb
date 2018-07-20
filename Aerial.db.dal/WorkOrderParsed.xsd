@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema id="WorkOrderParsed"
+    targetNamespace="http://tempuri.org/WorkOrderParsed.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/WorkOrderParsed.xsd"
+    xmlns:mstns="http://tempuri.org/WorkOrderParsed.xsd"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+>
+  <xsd:element name="WorkOrderParsed" type="mstns:WorkOrderParsed" />
+  <xsd:complexType name="WorkOrderParsed" >
+    <xsd:sequence>
+      <xsd:element name="Number" type= "xsd:string"/>
+      <xsd:element name="Customer" type ="xsd:string" />
+      <xsd:element name="Date" type="xsd:string"/>
+      <xsd:element name="TargetPests" type="xsd:string"/>
+      <xsd:element name="Products" type="mstns:Product" minOccurs="0" maxOccurs="unbounded" />
+      <xsd:element name="Fields" type="mstns:Fields" minOccurs="0" maxOccurs="unbounded" />
+      <xsd:element name="HQNotes" type="xsd:string" />
+      <xsd:element name="HashCode" type="xsd:string" />
+      <xsd:element name="ApplicationTotal" type="xsd:decimal" default="0" />
+      <xsd:element name="ApplicationRate" type="xsd:decimal" default="0" />
+      <xsd:element name="ApplicationUnitOfMeasure" type="xsd:string" default="" />
+      <xsd:element name="ApplicationLoads" type="xsd:decimal"  default="0" />
+      <xsd:element name="ApplicationAcresPerLoad" type="xsd:decimal" default="0" />
+      <xsd:element name="ApplicationAmountPerLoad" type="xsd:decimal" default="0" />
+    </xsd:sequence>
+  </xsd:complexType>
+
+  <xsd:complexType name="Fields" >
+    <xsd:sequence>
+      <xsd:element name="Name" type="xsd:string" />
+      <xsd:element name="LatLong" type="xsd:string" />
+      <xsd:element name="Area" type="xsd:string" />
+    </xsd:sequence>
+  </xsd:complexType>
+
+  <xsd:complexType name="Product" >
+    <xsd:sequence>
+      <xsd:element name="Name" type="xsd:string" />
+      <xsd:element name="CustomerSupplied" type="xsd:boolean" />
+    </xsd:sequence>
+  </xsd:complexType>
+</xsd:schema>

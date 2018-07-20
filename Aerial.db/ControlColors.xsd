@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema id="ButtonColors"
+    targetNamespace="http://tempuri.org/ButtonColors.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/ButtonColors.xsd"
+    xmlns:mstns="http://tempuri.org/ButtonColors.xsd"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+>
+  <xsd:element name="ControlColors" type="mstns:ControlColors" />
+  <xsd:complexType name="ControlColors" >
+    <xsd:sequence>
+      <xsd:element name="Control" type="mstns:Control" minOccurs="0" maxOccurs="unbounded" />
+    </xsd:sequence>
+  </xsd:complexType>
+
+  <xsd:complexType name="Control" >
+    <xsd:sequence>
+      <xsd:element name="ID" type="xsd:string" />
+      <xsd:element name="ForeR" type="xsd:int" />
+      <xsd:element name="ForeG" type="xsd:int" />
+      <xsd:element name="ForeB" type="xsd:int" />
+      <xsd:element name="BackR" type="xsd:int" />
+      <xsd:element name="BackG" type="xsd:int" />
+      <xsd:element name="BackB" type="xsd:int" />
+    </xsd:sequence>
+  </xsd:complexType>
+</xsd:schema>
